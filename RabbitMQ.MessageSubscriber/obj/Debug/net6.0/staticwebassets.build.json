@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rQGAzcvh7Szck/9QusvknR2WQ2y4EmaUTuRdZE/mrdc=",
+  "Source": "RabbitMQ.MessageSubscriber",
+  "BasePath": "_content/RabbitMQ.MessageSubscriber",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
